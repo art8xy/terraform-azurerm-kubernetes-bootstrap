@@ -1,0 +1,4 @@
+PyYAML==6.0.3
+azure-functions==2.3.0
+azure-identity==1.25.3
+azure-mgmt-containerservice==41.6.0
